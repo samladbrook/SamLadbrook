@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **samladbrook/SamLadbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ⛷️ Sam Ladbrook
+
+**'Software Engineering Student | Aspiring Full-Stack Engineer | Problem Solver'**
+
+I’m currently a Software Engineering student at the University of Canterbury, passionate about building clean, scalable systems that solve real-world problems. My projects range from full-stack web apps in Django to multithreaded automation tools in C# and Java, with a growing focus on data-driven decision-making and optimisation.
+
+  <p align="left">
+    <a href="https://www.linkedin.com/in/sam-ladbrook/">
+      <img alt="Linkedin Logo" title="Follow my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedin-logo1010101"/></a>
