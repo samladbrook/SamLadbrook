@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 # ⛷️ Sam Ladbrook
 
-**'Software Engineering Student | Aspiring Full-Stack Engineer | Problem Solver'**
+**Software Engineering Student | Aspiring Full-Stack Engineer | Problem Solver**
 
 I’m currently a Software Engineering student at the University of Canterbury, passionate about building clean, scalable systems that solve real-world problems. My projects range from full-stack web apps in Django to multithreaded automation tools in C# and Java, with a growing focus on data-driven decision-making and optimisation.
 
-  <p align="left">
+  <!--<p align="left">
     <a href="https://www.linkedin.com/in/sam-ladbrook/">
-      <img alt="Linkedin Logo" title="Follow my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedin-logo1010101"/></a>
+      <img alt="Linkedin Logo" title="Follow my Linkedin!" src="https://img.shields.io/badge/Linkedin?style=social&logo=linkedin_logo_initials-min1231&labelColor=%231B4697&color=%232B66B1"/></a>-->
