@@ -38,13 +38,13 @@ Software Engineering student at the University of Canterbury. I love developing 
 **Polaroam**  
 - Full-stack travel blog/log, within a 6-person team. (Not on GitHub yet, still soely GitLab)
 
-**Options Pricer**  
+[**Options Price Simulator**]([url](https://github.com/samladbrook/options-simulator-lab))  
 - Stock options pricer using ML-predicted volatility.
 
-**Dask LSH Recommendation System**  
+[**Dask LSH Recommendation System**]([url](https://github.com/samladbrook/dask-lsh-recommendation-system)) 
 - University research project that uses Item-based Collaborative Filtering with MinHash and Locality Sensitive Hashing to recommened movies / tv shows to users within dataset.
 
-**Blogged** 
+[**Blogged**]([url](https://github.com/samladbrook/react-node-blog-app))
 - Full stack Node.js / React blog application. Developed as a part of a University project
 
 ---
