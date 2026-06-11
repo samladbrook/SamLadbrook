@@ -1,70 +1,58 @@
-<!--
-**samladbrook/SamLadbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sam
+**Software Engineering Student | Aspiring Engineer | Problem Solver**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# ⛷️ Sam Ladbrook  
-**Software Engineering Student | Aspiring Full-Stack Engineer | Problem Solver | Technology Enthusiast**
-
-I’m a Software Engineering student at the University of Canterbury with a passion for building practical, scalable solutions that make a tangible impact. I thrive on projects where I can combine strong technical skills with creativity and problem-solving. Recently i’ve continued to explore new technologies, contribute to real-world projects, and challenge myself with both academic and personal coding work.
+Software Engineering student at the University of Canterbury. I love developing systems complex systems that really work. When I'm not developing I'm usually skiing, fishing, or on a golf course somewhere in New Zealand.
 
 ---
 
-## 🛠️ Technical Skills
+## What I'm Working On
+ 
+**[OnMyRoute](https://onmyroute.com)** (_in progress_) — my main side project. A full-stack marketplace delivery platform. Drivers heading somewhere can pick up deliveries along their route and earn; senders get a cheaper, faster option than couriers.
+ 
+**Polaroam** — a travel journalling and social platform (uni team project) built with SvelteKit + ASP.NET. Includes cool features like Integrated CLIP-based AI image tagging.
+
+## Technical Skills
 
 **Languages**  
-- **Proficient:** Python, Java, C#  
-- **Intermediate:** JavaScript, SQL, HTML/CSS  
-- **Familiar:** Bash, C/C++  
+- **Proficient:** Python, Java, C#, TypeScript, SQL, Node.js
+- **Familiar:** Bash, C/C++
 
 **Frameworks & Libraries**  
-- Django, Flask, .NET, React, Angular (introductory), Pandas, NumPy  
+- Svelte, Dask, React, Django, Capacitor, NumPy, Scikit-Learn, Robot Framework, Pandas...
 
 **Tools & Platforms**  
-- Git, Docker, PostgreSQL, Linux, AWS (basics), CI/CD, SQLite, REST APIs  
+- Git, Docker, PostgreSQL, Linux, Nginx, CI/CD, SQLite, Linux Servers
 
 **Special Interests**  
-- AI & Machine Learning experimentation  
+- AI & Machine Learning
+- Full-stack Apps
 - Automation tools that improve productivity  
-- Data analysis and optimisation  
 
 ---
 
-## 💻 Projects
+## Projects
 
-**Playful Django Web Apps**  
-- Built and deployed several Django applications with connected databases.  
-- Implemented user authentication, CRUD functionality, and interactive UI features.  
-- Focused on writing clean, maintainable code and optimising queries for performance.  
+**OnMyRoute**  
+- Delivery marketplace - more to come
 
-**Multithreaded Automation Tools (C#)**  
-- Developed tools to automate repetitive tasks and integrate data workflows.  
-- Emphasised efficiency, error handling, and ease of use for end-users.  
+**Polaroam**  
+- Full-stack travel blog/log, within a 6-person team. (Not on GitHub yet, still soely GitLab)
 
-**AI & ML Exploration**  
-- Recently started experimenting with AI and ML models, including natural language processing.  
-- Built prototype scripts for simple AI-driven workflows and automation scenarios.  
+**Options Pricer**  
+- Stock options pricer using ML-predicted volatility.
 
-**JavaFX Racing Game**  
-- Designed and implemented a racing simulation with pit stops, penalties, and dynamic events.  
-- Incorporated service-based architecture and clear separation of logic from UI.  
+**Dask LSH Recommendation System**  
+- University research project that uses Item-based Collaborative Filtering with MinHash and Locality Sensitive Hashing to recommened movies / tv shows to users within dataset.
+
+**Blogged** 
+- Full stack Node.js / React blog application. Developed as a part of a University project
 
 ---
 
-## 🌏 What Drives Me
+## What Drives Me
 - Building software that is practical and impactful.
-- Continuously learning — from experimenting with AI agents to exploring embedded systems.  
-- Collaborating with others, sharing knowledge, and contributing to team success.  
+- Continuously learning — experimenting, developing, asking questions.  
+- Collaborating with others, sharing knowledge, and contributing to a team.
 
 ---
 
