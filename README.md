@@ -11,6 +11,18 @@ Software Engineering student at the University of Canterbury. I love developing 
  
 **Polaroam** — a travel journalling and social platform (uni team project) built with SvelteKit + ASP.NET. Includes cool features like Integrated CLIP-based AI image tagging.
 
+---
+
+## Experience
+
+**Software Engineering Intern — Endace**  
+- Developed an automated load testing and monitoring tool used to test and monitor new software builds.
+- Worked with real production-focused engineering problems, including performance testing, automation, and reliability.
+- Gained experience building practical internal tools that improved testing visibility and developer productivity.
+- Utilised tools such as, Robot Framework, Bash, Docker, Python, Prometheus, SNMP, Grafana, Cron
+
+---
+
 ## Technical Skills
 
 **Languages**  
