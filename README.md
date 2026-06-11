@@ -15,7 +15,7 @@ Software Engineering student at the University of Canterbury. I love developing 
 
 ## Experience
 
-**Software Engineering Intern — Endace**  
+**Software Engineering Intern — Endace Technology Limited**  
 - Developed an automated load testing and monitoring tool used to test and monitor new software builds.
 - Worked with real production-focused engineering problems, including performance testing, automation, and reliability.
 - Gained experience building practical internal tools that improved testing visibility and developer productivity.
