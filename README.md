@@ -68,6 +68,6 @@ Software Engineering student at the University of Canterbury. I love developing 
 
 ---
 
-## 📫 Connect
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/sam-ladbrook/)
 
