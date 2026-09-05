@@ -50,6 +50,9 @@ Software Engineering student at the University of Canterbury. I love developing 
 **Polaroam**  
 - Full-stack travel blog/log, within a 6-person team. (Not on GitHub yet, still soely GitLab)
 
+**scratchnet**  
+- A neural network built from scratch in Python and NumPy that learns to classify MNIST handwritten digits.
+
 [**Options Price Simulator**]([url](https://github.com/samladbrook/options-simulator-lab))  
 - Stock options pricer using ML-predicted volatility.
 
