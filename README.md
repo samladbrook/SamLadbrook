@@ -3,7 +3,7 @@
 
 Software Engineering student at the University of Canterbury. I love developing systems complex systems that really work. When I'm not developing I'm usually skiing, fishing, or on a golf course somewhere in New Zealand.
 
----
+![GitHub streak](https://streak-stats.demolab.com?user=samladbrook&theme=dark)
 
 ## What I'm Working On
  
